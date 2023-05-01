@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevinbrnett
-- 👀 I’m interested in teaching myself new skills
+- 👀 I’m passionate about neuroscience and progress medical technology
 - 🌱 I’m currently going through the Coding Dojo Data Science and Visualization bootcamp
 - 📫 How to reach me kevin.brnett@gmail.com
 
