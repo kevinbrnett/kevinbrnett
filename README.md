@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevinbrnett
 - 👀 I’m passionate about neuroscience and progressing medical technology
-- 🌱 I’m currently going through the Coding Dojo Data Science and Visualization bootcamp
+- 🌱 I graduated from the Coding Dojo Data Science and Visualization bootcamp. I'm now continuing to refine my skills by working on personal projects
 - 📫 How to reach me kevin.brnett@gmail.com
 
 <!---
